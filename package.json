@@ -3,92 +3,91 @@
     "displayName": "Galactic Glow",
     "icon": "artworks/logoBW.png",
     "description": "Transform your coding environment into a galactic saga with Galactic Glow. Embrace the shades of Darth Invader, Luke Skywriter, and more as you traverse through the code cosmos.",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "publisher": "EntropyQuality",
     "categories": [
-      "Themes"
+        "Themes"
     ],
     "repository": {
-      "type": "git",
-      "url": "https://github.com/EntropyQuality/galactic-glow.git"
+        "type": "git",
+        "url": "https://github.com/EntropyQuality/galactic-glow.git"
     },
     "engines": {
-      "vscode": "^1.83.0"
+        "vscode": "^1.83.0"
     },
     "homepage": "https://github.com/EntropyQuality/galactic-glow/blob/main/README.md",
     "license": "AGPL-3.0",
     "releaseNotes": [
-      {
-        "version": "0.1.1",
-        "date": "2023-10-12",
-        "notes": [
-          "Introduction of a new character theme: Mace Windstorm",
-          "Updated README.md file"
-        ]
-      },
-      {
-        "version": "0.1.0",
-        "date": "2023-10-12",
-        "notes": [
-          "Initial release of Galactic Glow with five character themes: Boba Fret, Darth Invader, Luke Skywriter, Yodan and Storm Tracker",
-          "Basic installation and usage instructions in README.md.",
-          "Optimized color schemes for better user experience."
-        ]
-      }
+        {
+            "version": "0.1.1",
+            "date": "2023-10-12",
+            "notes": [
+                "Introduction of a new character theme: Mace Windstorm",
+                "Updated README.md file"
+            ]
+        },
+        {
+            "version": "0.1.0",
+            "date": "2023-10-12",
+            "notes": [
+                "Initial release of Galactic Glow with five character themes: Boba Fret, Darth Invader, Luke Skywriter, Yodan and Storm Tracker",
+                "Basic installation and usage instructions in README.md.",
+                "Optimized color schemes for better user experience."
+            ]
+        }
     ],
     "keywords": [
-      "dark theme",
-      "star wars",
-      "lightsaber",
-      "force",
-      "darth",
-      "sidious",
-      "yoda",
-      "vader",
-      "skywalker",
-      "storm trooper",
-      "galactic",
-      "retro",
-      "quality",
-      "professional",
-      "multi",
-      "bundle",
-      "mace",
-      "windu"
+        "dark theme",
+        "star wars",
+        "lightsaber",
+        "force",
+        "darth",
+        "sidious",
+        "yoda",
+        "vader",
+        "skywalker",
+        "storm trooper",
+        "galactic",
+        "retro",
+        "quality",
+        "professional",
+        "multi",
+        "bundle",
+        "mace",
+        "windu"
     ],
     "contributes": {
-      "themes": [
-        {
-          "label": "GalacticGlow - Boba Fret",
-          "uiTheme": "vs-dark",
-          "path": "./themes/boba-fret-color-theme.json"
-        },
-        {
-          "label": "GalacticGlow - Darth Invader",
-          "uiTheme": "vs-dark",
-          "path": "./themes/darth-invader-color-theme.json"
-        },
-        {
-          "label": "GalacticGlow - Luke Skywriter",
-          "uiTheme": "vs-dark",
-          "path": "./themes/luke-skywriter-color-theme.json"
-        },
-        {
-          "label": "GalacticGlow - Mace Windstorm",
-          "uiTheme": "vs-dark",
-          "path": "./themes/mace-windstorm-color-theme.json"
-        },
-        {
-          "label": "GalacticGlow - Storm Tracker",
-          "uiTheme": "vs-dark",
-          "path": "./themes/storm-tracker-color-theme.json"
-        },
-        {
-          "label": "GalacticGlow - Yodan",
-          "uiTheme": "vs-dark",
-          "path": "./themes/yodan-color-theme.json"
-        }
-      ]
+        "themes": [
+            {
+                "label": "GalacticGlow - Boba Fret",
+                "uiTheme": "vs-dark",
+                "path": "./themes/boba-fret-color-theme.json"
+            },
+            {
+                "label": "GalacticGlow - Darth Invader",
+                "uiTheme": "vs-dark",
+                "path": "./themes/darth-invader-color-theme.json"
+            },
+            {
+                "label": "GalacticGlow - Luke Skywriter",
+                "uiTheme": "vs-dark",
+                "path": "./themes/luke-skywriter-color-theme.json"
+            },
+            {
+                "label": "GalacticGlow - Mace Windstorm",
+                "uiTheme": "vs-dark",
+                "path": "./themes/mace-windstorm-color-theme.json"
+            },
+            {
+                "label": "GalacticGlow - Storm Tracker",
+                "uiTheme": "vs-dark",
+                "path": "./themes/storm-tracker-color-theme.json"
+            },
+            {
+                "label": "GalacticGlow - Yodan",
+                "uiTheme": "vs-dark",
+                "path": "./themes/yodan-color-theme.json"
+            }
+        ]
     }
-  }
-  
+}
