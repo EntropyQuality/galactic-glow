@@ -81,6 +81,7 @@ A special thanks to all the iconic characters from the galactic saga that inspir
 
 ## Changelog 📅
 
+- 0.1.1 (2023-10-12): New character theme introduction: Mace Windstorm.
 - 0.1.0 (2023-10-12): Initial release of Galactic Glow.
 
 ## FAQs ❓
@@ -91,3 +92,4 @@ A special thanks to all the iconic characters from the galactic saga that inspir
 ## Contact
 
 Feel free to reach out and follow on [GitHub](https://github.com/EntropyQuality).
+
