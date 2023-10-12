@@ -11,11 +11,37 @@ A VSCode theme extension that brings the legendary galactic saga characters to y
 
 ![Header Image](./artworks/header.png)
 
+## Usage 🚀
+
+Switch between different character themes to experience the unique ambiance each one brings to your coding environment. Preview the themes below to find your favorite!
+
+![Darth Invader Theme](./artworks/darthInvader.png)
+
+![Luke Skywriter Theme](./artworks/lukeSkywriter.png)
+
+![Storm Tracker Theme](./artworks/stormTracker.png)
+
+![Yodan Theme](./artworks/Yodan.png)
+
+![Boba Fret Theme](./artworks/bobaFret.png)
+
+![Mace Windstorm Theme](./artworks/maceWindstorm.png)
+
+![Unlock more profiles](./artworks/moreProfiles.png)
+
+- **~~Mace Windstorm: unlocked~~** 🌠
+<br>
+- **Artie-Detoo: 500 installs, or three 5 star ratings. 🛸**
+<br>
+- **Cee-Threepo: Details pending. Reach two cosmic achievements to access. 🤖** 
+<br>
+- **Darth Insidious: Details pending. Reach three cosmic achievements to access. 🪐** 
+<br>
+
 ## Table of Contents
 
 - [Installation](#installation)
 - [Features](#features)
-- [Usage](#usage)
 - [Support](#support)
 - [Contributing](#contributing)
 - [License](#license)
@@ -33,31 +59,6 @@ A VSCode theme extension that brings the legendary galactic saga characters to y
 ## Features 🌟
 
 Galactic Glow is a multi-bundle theme extension created with the intention to visualize the essence of iconic galactic saga characters via coloring. Each character theme offers a unique coding ambiance to enhance your VSCode experience.
-
-## Usage 🚀
-
-Switch between different character themes to experience the unique ambiance each one brings to your coding environment. Preview the themes below to find your favorite!
-
-![Darth Invader Theme](./artworks/darthInvader.png)
-
-![Luke Skywriter Theme](./artworks/lukeSkywriter.png)
-
-![Storm Tracker Theme](./artworks/stormTracker.png)
-
-![Yodan Theme](./artworks/Yodan.png)
-
-![Boba Fret Theme](./artworks/bobaFret.png)|
-
-![Unlock more profiles](./artworks/moreProfiles.png)
-
-- **Mace Windstorm: 500 installs, or one 5 star rating. 🌠**
-<br>
-- **Artie-Detoo: Details pending. Reach a cosmic achievement to access. 🛸**
-<br>
-- **Cee-Threepo: Details pending. Reach two cosmic achievements to access. 🤖** 
-<br>
-- **Darth Insidious: Details pending. Reach three cosmic achievements to access. 🪐** 
-<br>
 
 
 ## Support 🚑
