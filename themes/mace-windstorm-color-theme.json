@@ -166,6 +166,7 @@
                 "fontStyle": "bold",
                 "foreground": "#FFAB40" // Introducing a new shade of orange
             }
-        }
+        },
+        {"scope": ["variable.language"], "settings": {"fontStyle": "italic", "foreground": "#ff77ff"}},
     ]
 }

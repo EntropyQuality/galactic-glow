@@ -29,13 +29,13 @@ Switch between different character themes to experience the unique ambiance each
 
 ![Unlock more profiles](./artworks/moreProfiles.png)
 
-- **~~Mace Windstorm: unlocked~~** 🌠
+- **Mace Windstorm: unlocked** 🌠
 <br>
-- **Artie-Detoo: 500 installs, or three 5 star ratings. 🛸**
+- **Artie-Detoo: 300 installs, or three 5 star ratings. 🛸**
 <br>
-- **Cee-Threepo: Details pending. Reach two cosmic achievements to access. 🤖** 
+- **Cee-Threepo: 300 installs, or three 5 star ratings. 🤖** 
 <br>
-- **Darth Insidious: Details pending. Reach three cosmic achievements to access. 🪐** 
+- **Darth Insidious: Details pending. Reach one cosmic achievements to access. 🪐** 
 <br>
 
 ## Table of Contents

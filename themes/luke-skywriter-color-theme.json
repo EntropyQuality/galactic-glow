@@ -56,7 +56,7 @@
         "dropdown.border": "#3A3A50",
         "menu.background": "#343455",
         "menu.foreground": "#B9BAE1",
-        "menu.selectionBackground": "#3A3A50",
+        "menu.selectionBackground": "#716700",
         "menu.selectionForeground": "#DADCEC",
         "menu.border": "#3A3A50",
         "terminal.foreground": "#B9BAE1",
@@ -99,12 +99,12 @@
         {"scope": ["variable", "variable.parameter", "variable.other"], "settings": {"foreground": "#B9BAE1"}},
         {"scope": ["keyword.operator", "storage.modifier"], "settings": {"foreground": "#FFE400"}},
         {"scope": ["comment"], "settings": {"fontStyle": "italic", "foreground": "#68687B"}},
-        {"scope": ["string"], "settings": {"foreground": "#B9BAE1"}},
+        {"scope": ["string"], "settings": {"foreground": "#83ADB5"}},
         {"scope": ["support.type.property-name.json"], "settings": {"foreground": "#B9BAE1"}},
         {"scope": ["string.quoted.double.json"], "settings": {"foreground": "#6FCF97"}},
         {"scope": ["meta.class"], "settings": {"fontStyle": "italic"}},
         {"scope": ["meta.definition.property"], "settings": {"fontStyle": "italic"}},
-        {"scope": ["punctuation"], "settings": {"foreground": "#6FCF97"}},
+        {"scope": ["punctuation"], "settings": {"foreground": "#E67E22"}},
         {"scope": ["invalid", "invalid.illegal"], "settings": {"foreground": "#FFFFFF"}},
         {"scope": ["invalid.deprecated"], "settings": {"foreground": "#FFFFFF"}},
         {"scope": ["support.type.property-name"], "settings": {"foreground": "#6FCF97"}},
@@ -126,7 +126,7 @@
         {
             "scope": ["storage.type"],
             "settings": {
-                "foreground": "#4FB0C6"
+                "foreground": "#6DBEE4"
             }
         },
         {
@@ -135,8 +135,9 @@
               "foreground": "#508BF9"
           }
       },
-      {"scope": ["entity.name.section.markdown"], "settings": {"foreground": "#FFA07A"}},
-      {"scope": ["markup.bold.markdown", "markup.bold"], "settings": {"fontStyle": "bold", "foreground": "#F08080"}}
+      {"scope": ["entity.name.section.markdown"], "settings": {"foreground": "#6DBEE4"}},
+      {"scope": ["markup.bold.markdown", "markup.bold"], "settings": {"fontStyle": "bold", "foreground": "#F08080"}},
+      {"scope": ["variable.language"], "settings": {"fontStyle": "italic", "foreground": "#6DBEE4"}},
     ],
     "semanticHighlighting": true,
     "semanticTokenColors": {

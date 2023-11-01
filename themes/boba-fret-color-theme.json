@@ -150,7 +150,8 @@
                 "fontStyle": "bold",
                 "foreground": "#A3CF74"
             }
-        }
+        },
+        {"scope": ["variable.language"], "settings": {"fontStyle": "italic", "foreground": "#FF7171"}},
 
     ],
     "editor": {
