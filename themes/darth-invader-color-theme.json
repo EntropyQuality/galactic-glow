@@ -121,7 +121,8 @@
         {"scope": ["meta.property-value"], "settings": {"foreground": "#FFD700"}},
         {"scope": ["entity.other.attribute-name.pseudo-class"], "settings": {"foreground": "#FF69B4"}},
         {"scope": ["meta.function-call.generic"], "settings": {"fontStyle": "bold", "foreground": "#FFD700"}},
-        {"scope": ["entity.other.inherited-class"], "settings": {"fontStyle": "italic", "foreground": "#AEFFAE"}}
+        {"scope": ["entity.other.inherited-class"], "settings": {"fontStyle": "italic", "foreground": "#AEFFAE"}},
+        {"scope": ["constant.language"], "settings": {"fontStyle": "italic", "foreground": "#D10000"}}
 
 
     ],

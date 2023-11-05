@@ -152,6 +152,7 @@
             }
         },
         {"scope": ["variable.language"], "settings": {"fontStyle": "italic", "foreground": "#FF7171"}},
+        {"scope": ["constant.language"], "settings": {"fontStyle": "italic", "foreground": "#C2185B"}}
 
     ],
     "editor": {

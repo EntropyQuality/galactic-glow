@@ -138,6 +138,7 @@
       {"scope": ["entity.name.section.markdown"], "settings": {"foreground": "#6DBEE4"}},
       {"scope": ["markup.bold.markdown", "markup.bold"], "settings": {"fontStyle": "bold", "foreground": "#F08080"}},
       {"scope": ["variable.language"], "settings": {"fontStyle": "italic", "foreground": "#6DBEE4"}},
+      {"scope": ["constant.language"], "settings": {"fontStyle": "italic", "foreground": "#D1CF00"}}
     ],
     "semanticHighlighting": true,
     "semanticTokenColors": {

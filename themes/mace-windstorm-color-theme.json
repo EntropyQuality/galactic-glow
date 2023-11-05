@@ -168,5 +168,6 @@
             }
         },
         {"scope": ["variable.language"], "settings": {"fontStyle": "italic", "foreground": "#ff77ff"}},
+        {"scope": ["constant.language"], "settings": {"fontStyle": "italic", "foreground": "#ADD8E6"}}
     ]
 }

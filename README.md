@@ -41,6 +41,11 @@ Switch between different character themes to experience the unique ambiance each
 ## Table of Contents
 
 - [Installation](#installation)
+- [Recommended Font: JetBrains Mono](#recommended-font-jetbrains-mono)
+  - [How to Install JetBrains Mono](#how-to-install-jetbrains-mono)
+  - [Setting JetBrains Mono in VSCode](#setting-jetbrains-mono-in-vscode)
+- [Special Instructions for Linux Users](#special-instructions-for-linux-users)
+  - [Enabling Custom Components](#enabling-custom-components)
 - [Features](#features)
 - [Support](#support)
 - [Contributing](#contributing)
@@ -55,6 +60,45 @@ Switch between different character themes to experience the unique ambiance each
 1. Open the Extensions sidebar in VSCode. `View → Extensions`.
 2. Search for `Galactic Glow`, and install it.
 3. After installation, select the theme by navigating to `File → Preferences → Color Theme → Galactic Glow`.
+
+## Recommended Font: JetBrains Mono ✍️
+
+To elevate your coding experience with Galactic Glow, we recommend using the JetBrains Mono font. This font is designed specifically for developers, offering improved readability and a modern, clean aesthetic that complements the theme's character-inspired styles.
+
+### How to Install JetBrains Mono
+
+1. Download the latest version of JetBrains Mono from the [official website](https://www.jetbrains.com/lp/mono/).
+2. Unzip the downloaded archive.
+3. Install the font on your system:
+   - **Windows**: Right-click on the `.ttf` files and select "Install".
+   - **macOS**: Double-click on the `.ttf` files and press "Install Font".
+   - **Linux**: Place the `.ttf` files into `~/.local/share/fonts` (or `/usr/share/fonts` to install fonts system-wide) and run `fc-cache -f -v`.
+
+### Setting JetBrains Mono in VSCode
+
+After installing the font, set it as your editor's font in VSCode:
+
+1. Open VSCode settings (`Ctrl + ,` or `Cmd + ,` on macOS).
+2. Search for `Font Family`.
+3. Enter `JetBrains Mono` as the first choice in the font list.
+4. Ensure `Editor: Font Ligatures` is enabled to enjoy the full visual experience.
+
+
+## Special Instructions for Linux Users 🐧
+
+For Linux users, to fully experience the Galactic Glow theme as intended, you may need to enable certain features manually due to differences in how themes interact with the VSCode UI on Linux.
+
+### Enabling Custom Components
+
+1. Open the Command Palette with `Ctrl+Shift+P`.
+2. Type `Preferences: Open Settings (JSON)` and press `Enter`.
+3. Add or modify the following settings:
+   ```json
+   "window.titleBarStyle": "custom",
+   "terminal.integrated.fontFamily": "JetBrains Mono",
+   ```
+4. Save the settings and restart VSCode.
+
 
 ## Features 🌟
 
@@ -74,13 +118,15 @@ We welcome contributions from the community! If you'd like to contribute, feel f
 This project is licensed under the GNU Affero General Public License v3.0 (AGPL-3.0) - see the [LICENSE.txt](LICENSE.txt) file for details. 
 
 
-
 ## Acknowledgments 👏
 
 A special thanks to all the iconic characters from the galactic saga that inspired the color palettes of Galactic Glow.
 
 ## Changelog 📅
 
+- 0.1.4 (2023-10-12): Improved syntax highlighting for all the characters.
+- 0.1.3 (2023-10-12): Color changes to Darth Invader and Luke Skywriter theme for better syntax highlighting and menu navigation - improved the colors to align more with the character; Minor changes to Boba Fret and Mace Windstorm | Extended range of colors for syntax highlighting
+- 0.1.2 (2023-10-12): Minor changes to README.md file
 - 0.1.1 (2023-10-12): New character theme introduction: Mace Windstorm.
 - 0.1.0 (2023-10-12): Initial release of Galactic Glow.
 
