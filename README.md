@@ -83,6 +83,15 @@ After installing the font, set it as your editor's font in VSCode:
 3. Enter `JetBrains Mono` as the first choice in the font list.
 4. Ensure `Editor: Font Ligatures` is enabled to enjoy the full visual experience.
 
+Below are my personal settings:
+   ```json
+    "editor.fontSize": 16,
+    "editor.fontFamily": "'JetBrains Mono', 'Courier New', monospace",
+    "editor.fontWeight": "bold", 
+    "editor.fontLigatures": true,
+    "terminal.integrated.fontSize": 16,
+   ```
+
 
 ## Special Instructions for Linux Users 🐧
 
@@ -94,8 +103,7 @@ For Linux users, to fully experience the Galactic Glow theme as intended, you ma
 2. Type `Preferences: Open Settings (JSON)` and press `Enter`.
 3. Add or modify the following settings:
    ```json
-   "window.titleBarStyle": "custom",
-   "terminal.integrated.fontFamily": "JetBrains Mono",
+   "window.titleBarStyle": "custom"
    ```
 4. Save the settings and restart VSCode.
 
@@ -124,6 +132,7 @@ A special thanks to all the iconic characters from the galactic saga that inspir
 
 ## Changelog 📅
 
+- 0.1.5 (2023-10-12): Improved syntax highlighting for multiple characters; Improved the README manual for installing fonts and advanced linux integration"
 - 0.1.4 (2023-10-12): Improved syntax highlighting for all the characters.
 - 0.1.3 (2023-10-12): Color changes to Darth Invader and Luke Skywriter theme for better syntax highlighting and menu navigation - improved the colors to align more with the character; Minor changes to Boba Fret and Mace Windstorm | Extended range of colors for syntax highlighting
 - 0.1.2 (2023-10-12): Minor changes to README.md file

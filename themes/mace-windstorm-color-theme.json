@@ -100,7 +100,6 @@
         {"scope": ["keyword.operator", "storage.modifier"], "settings": {"foreground": "#ffe600"}},
         {"scope": ["comment"], "settings": {"fontStyle": "italic", "foreground": "#816b87"}},
         {"scope": ["string"], "settings": {"foreground": "#c56ed4"}},
-        {"scope": ["support.type.property-name.json"], "settings": {"foreground": "#b084b6"}},
         {
             "scope": ["string.quoted.double.json"],
             "settings": {"foreground": "#ffccff"}
@@ -122,19 +121,19 @@
         },
         {"scope": ["text.html.basic"], "settings": {"foreground": "#e1bbdb"}},
         {"scope": ["entity.name.tag.html"], "settings": {"foreground": "#b084b6"}},
-
+        
         {"scope": ["entity.other.attribute-name.html"], "settings": {"foreground": "#31a2a2"}},
-
+        
         {"scope": ["punctuation.separator.key-value.html"], "settings": {"foreground": "#42cfcf"}},
-
+        
         {"scope": ["punctuation.definition.tag.html"], "settings": {"foreground": "#42cfcf"}},
-
+        
         {"scope": ["meta.tag.metadata"], "settings": {"foreground": "#db6ad1"}},
-
+        
         {"scope": ["string.quoted.double.html"], "settings": {"foreground": "#ffccff"}},
-
+        
         {"scope": ["comment.block.documentation.html"], "settings": {"foreground": "#816b87", "fontStyle": "italic"}},
-
+        
         {"scope": ["constant.character.entity.html"], "settings": {"foreground": "#3fa7a7"}},
         {
             "scope": ["entity.name.tag.html"],
@@ -168,6 +167,8 @@
             }
         },
         {"scope": ["variable.language"], "settings": {"fontStyle": "italic", "foreground": "#ff77ff"}},
-        {"scope": ["constant.language"], "settings": {"fontStyle": "italic", "foreground": "#ADD8E6"}}
+        {"scope": ["constant.language"], "settings": {"fontStyle": "italic", "foreground": "#ADD8E6"}},
+        {"scope": ["support.type"], "settings": {"fontStyle": "italic", "foreground": "#F4BF75"}},
+        {"scope": ["support.type.property-name.json"], "settings": {"foreground": "#b084b6"}},
     ]
 }

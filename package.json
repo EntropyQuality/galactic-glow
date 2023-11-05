@@ -19,6 +19,14 @@
     "license": "AGPL-3.0",
     "releaseNotes": [
         {
+            "version": "0.1.5",
+            "date": "2023-11-05",
+            "notes": [
+                "Improved syntax highlighting for multiple characters",
+                "Improved the README.me manual for installing fonts and advanced linux integration"
+            ]
+        },
+        {
             "version": "0.1.4",
             "date": "2023-11-05",
             "notes": [
