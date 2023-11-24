@@ -1,5 +1,5 @@
 {
-    "name": "Mace Windu",
+    "name": "Mace Windstorm",
     "type": "dark",
     "colors": {
         "editor.background": "#120a18",
@@ -113,12 +113,6 @@
         {"scope": ["meta.tag"], "settings": {"foreground": "#db6ad1"}},
         {"scope": ["support.constant"], "settings": {"foreground": "#3fa7a7"}},
         {"scope": ["entity.other.attribute-name"], "settings": {"foreground": "#31a2a2"}},
-        {
-            "scope": ["meta.class"],
-            "settings": {
-                "fontStyle": "italic"
-            }
-        },
         {"scope": ["text.html.basic"], "settings": {"foreground": "#e1bbdb"}},
         {"scope": ["entity.name.tag.html"], "settings": {"foreground": "#b084b6"}},
         
@@ -132,7 +126,7 @@
         
         {"scope": ["string.quoted.double.html"], "settings": {"foreground": "#ffccff"}},
         
-        {"scope": ["comment.block.documentation.html"], "settings": {"foreground": "#816b87", "fontStyle": "italic"}},
+        {"scope": ["comment.block.documentation.html"], "settings": {"foreground": "#816b87"}},
         
         {"scope": ["constant.character.entity.html"], "settings": {"foreground": "#3fa7a7"}},
         {
@@ -150,25 +144,25 @@
         {
             "scope": ["punctuation"],
             "settings": {
-                "foreground": "#6FC1A5" // Introducing a new shade of greenish teal
+                "foreground": "#6FC1A5" 
             }
         },
         {
             "scope": ["entity.name.section.markdown"],
             "settings": {
-                "foreground": "#9FA8DA" // Introducing a new shade of light blueish lavender
+                "foreground": "#9FA8DA" 
             }
         },
         {
             "scope": ["markup.bold.markdown", "markup.bold"],
             "settings": {
                 "fontStyle": "bold",
-                "foreground": "#FFAB40" // Introducing a new shade of orange
+                "foreground": "#FFAB40" 
             }
         },
-        {"scope": ["variable.language"], "settings": {"fontStyle": "italic", "foreground": "#ff77ff"}},
-        {"scope": ["constant.language"], "settings": {"fontStyle": "italic", "foreground": "#ADD8E6"}},
-        {"scope": ["support.type"], "settings": {"fontStyle": "italic", "foreground": "#F4BF75"}},
+        {"scope": ["variable.language"], "settings": {"foreground": "#ff77ff"}},
+        {"scope": ["constant.language"], "settings": {"foreground": "#ADD8E6"}},
+        {"scope": ["support.type"], "settings": {"foreground": "#F4BF75"}},
         {"scope": ["support.type.property-name.json"], "settings": {"foreground": "#b084b6"}},
     ]
 }

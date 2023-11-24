@@ -3,7 +3,7 @@
     "displayName": "Galactic Glow",
     "icon": "artworks/logoBW.png",
     "description": "Transform your coding environment into a galactic saga with Galactic Glow. Embrace the shades of Darth Invader, Luke Skywriter, and more as you traverse through the code cosmos.",
-    "version": "0.1.4",
+    "version": "0.1.5",
     "publisher": "EntropyQuality",
     "categories": [
         "Themes"
@@ -18,6 +18,15 @@
     "homepage": "https://github.com/EntropyQuality/galactic-glow/blob/main/README.md",
     "license": "AGPL-3.0",
     "releaseNotes": [
+        {
+            "version": "0.1.6",
+            "date": "2023-11-24",
+            "notes": [
+                "Major Improvements: Syntax highlighting for multiple characters",
+                "Three new characters added: artie-detoo, cee-threepo and darth insidious",
+                "Updated the README.me"
+            ]
+        },
         {
             "version": "0.1.5",
             "date": "2023-11-05",
@@ -90,9 +99,24 @@
     "contributes": {
         "themes": [
             {
+                "label": "GalacticGlow - Artie-Detoo",
+                "uiTheme": "vs-dark",
+                "path": "./themes/artie-detoo-color-theme.json"
+            }, 
+            {
                 "label": "GalacticGlow - Boba Fret",
                 "uiTheme": "vs-dark",
                 "path": "./themes/boba-fret-color-theme.json"
+            },
+            {
+                "label": "GalacticGlow - Cee-Threepo",
+                "uiTheme": "vs-dark",
+                "path": "./themes/cee-threepo-color-theme.json"
+            },
+            {
+                "label": "GalacticGlow - Darth Insidious",
+                "uiTheme": "vs-dark",
+                "path": "./themes/darth-insidious-color-theme.json"
             },
             {
                 "label": "GalacticGlow - Darth Invader",

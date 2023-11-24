@@ -1,5 +1,5 @@
 {
-    "name": "Yolda Enlightened",
+    "name": "Yodan Enlightened",
     "type": "dark",
     "colors": {
         "editor.background": "#0D0F0D",
@@ -303,7 +303,7 @@
         {"scope": ["punctuation"], "settings": {"foreground": "#7EA6C1"}},
         {"scope": ["entity.name.section.markdown"], "settings": {"foreground": "#F6A5C0"}},
         {"scope": ["markup.bold.markdown", "markup.bold"], "settings": {"fontStyle": "bold", "foreground": "#D9E17C"}},
-        {"scope": ["constant.language"], "settings": {"fontStyle": "italic", "foreground": "#FF69B4"}},
+        {"scope": ["constant.language"], "settings": {"foreground": "#FF69B4"}},
         {"scope": ["constant.numeric"], "settings": {"fontStyle": "italic", "foreground": "#ADD8E6"}},
         
     ],

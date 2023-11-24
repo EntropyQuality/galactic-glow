@@ -1,5 +1,5 @@
 {
-    "name": "Boba Fett",
+    "name": "Boba Fret",
     "type": "dark",
     "colors": {
         "editor.background": "#101010",
@@ -108,7 +108,7 @@
         {"scope": ["string"], "settings": {"foreground": "#68E868"}},
         {"scope": ["support.type.property-name.json"], "settings": {"foreground": "#68E868"}},
         {"scope": ["string.quoted.double.json"], "settings": {"foreground": "#E2E271"}},
-        {"scope": ["meta.class"], "settings": {"fontStyle": "italic", "foreground": "#A9FFC3"}},
+        {"scope": ["meta.class"], "settings": {"foreground": "#A9FFC3"}},
         {"scope": ["support.type.property-name"], "settings": {"foreground": "#E2E271"}},
         {"scope": ["meta.property-value"], "settings": {"foreground": "#A9FFC3"}},
         
@@ -116,7 +116,7 @@
 
         {"scope": ["meta.function-call.generic"], "settings": {"fontStyle": "bold", "foreground": "#FF7171"}},
 
-        {"scope": ["entity.other.inherited-class"], "settings": {"fontStyle": "italic", "foreground": "#C6FFA1"}},
+        {"scope": ["entity.other.inherited-class"], "settings": {"foreground": "#C6FFA1"}},
         {"scope": ["entity.name.tag"], "settings": {"foreground": "#FF7171"}},
         {"scope": ["entity.other.attribute-name"], "settings": {"foreground": "#A9FFC3"}},
         {"scope": ["entity.other.attribute-name.id"], "settings": {"foreground": "#E2E271"}},
@@ -151,22 +151,10 @@
                 "foreground": "#A3CF74"
             }
         },
-        {"scope": ["variable.language"], "settings": {"fontStyle": "italic", "foreground": "#FF7171"}},
-        {"scope": ["constant.language"], "settings": {"fontStyle": "italic", "foreground": "#C2185B"}},
+        {"scope": ["variable.language"], "settings": {"foreground": "#FF7171"}},
+        {"scope": ["constant.language"], "settings": {"foreground": "#C2185B"}},
         {"scope": ["support.function.builtin"], "settings": {"foreground": "#61AFEF"}},
         {"scope": ["support.variable.magic"], "settings": {"foreground": "#C792EA"}},
-
     ],
-    "editor": {
-        "colorDecorators": true,
-        "highlightLine": true,
-        "wordWrap": "off",
-        "cursorStyle": "block",
-        "fontSize": 14,
-        "lineHeight": 20,
-        "letterSpacing": 0.5,
-        "fontWeight": "normal",
-        "renderWhitespace": "all",
-        "roundedSelection": true
-    }
+
 }

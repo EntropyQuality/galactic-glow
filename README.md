@@ -31,11 +31,11 @@ Switch between different character themes to experience the unique ambiance each
 
 - **Mace Windstorm: unlocked** 🌠
 <br>
-- **Artie-Detoo: 300 installs, or three 5 star ratings. 🛸**
+- **Artie-Detoo: unlocked 🛸**
 <br>
-- **Cee-Threepo: 300 installs, or three 5 star ratings. 🤖** 
+- **Cee-Threepo: unlocked 🤖** 
 <br>
-- **Darth Insidious: Details pending. Reach one cosmic achievements to access. 🪐** 
+- **Darth Insidious: unlocked 🪐** 
 <br>
 
 ## Table of Contents
@@ -60,6 +60,24 @@ Switch between different character themes to experience the unique ambiance each
 1. Open the Extensions sidebar in VSCode. `View → Extensions`.
 2. Search for `Galactic Glow`, and install it.
 3. After installation, select the theme by navigating to `File → Preferences → Color Theme → Galactic Glow`.
+
+
+### 🌌 Quick Theme Change in VSCode 🎹
+
+To enhance your coding experience with Galactic Glow, follow these easy steps:
+
+1. **Open Command Palette**: Press `Ctrl+Shift+P` (Windows/Linux) or `Cmd+Shift+P` (macOS) to bring up the Command Palette.
+
+2. **Choose Theme**: Type `Preferences: Color Theme` and hit `Enter`. This action will take you directly to the theme selection menu.
+
+3. **Select Galactic Glow**: Scroll through the list or type the name of your desired Galactic Glow theme (like Darth Invader or Luke Skywriter) and press `Enter` to apply it and immerse yourself in the galactic ambiance.
+
+### 🕹️ Quick Shortcut
+
+For an even quicker theme change:
+- Press `Ctrl + K`, then `Ctrl + T`. 
+- This key combination instantly opens the theme selection menu. Choose your desired Galactic Glow theme from the dropdown and enjoy the transformation of your VSCode environment.
+
 
 ## Recommended Font: JetBrains Mono ✍️
 
@@ -87,7 +105,7 @@ Below are my personal settings:
    ```json
     "editor.fontSize": 16,
     "editor.fontFamily": "'JetBrains Mono', 'Courier New', monospace",
-    "editor.fontWeight": "bold", 
+    "editor.fontWeight": "800", 
     "editor.fontLigatures": true,
     "terminal.integrated.fontSize": 16,
    ```
@@ -125,19 +143,19 @@ We welcome contributions from the community! If you'd like to contribute, feel f
 
 This project is licensed under the GNU Affero General Public License v3.0 (AGPL-3.0) - see the [LICENSE.txt](LICENSE.txt) file for details. 
 
-
 ## Acknowledgments 👏
 
 A special thanks to all the iconic characters from the galactic saga that inspired the color palettes of Galactic Glow.
 
 ## Changelog 📅
 
-- 0.1.5 (2023-10-12): Improved syntax highlighting for multiple characters; Improved the README manual for installing fonts and advanced linux integration"
-- 0.1.4 (2023-10-12): Improved syntax highlighting for all the characters.
-- 0.1.3 (2023-10-12): Color changes to Darth Invader and Luke Skywriter theme for better syntax highlighting and menu navigation - improved the colors to align more with the character; Minor changes to Boba Fret and Mace Windstorm | Extended range of colors for syntax highlighting
+- 0.1.6 (2023-11-24): Major Improvements: Syntax highlighting for multiple characters, Three new characters added: Artie-Detoo, Cee-Threepo and Darth Insidious, Updated the README.me, added instructions for theme selection process.
+- 0.1.5 (2023-11-05): Improved syntax highlighting for multiple characters; Improved the README manual for installing fonts and advanced linux integration"
+- 0.1.4 (2023-11-05): Improved syntax highlighting for all the characters.
+- 0.1.3 (2023-11-01): Color changes to Darth Invader and Luke Skywriter theme for better syntax highlighting and menu navigation - improved the colors to align more with the character; Minor changes to Boba Fret and Mace Windstorm | Extended range of colors for syntax highlighting
 - 0.1.2 (2023-10-12): Minor changes to README.md file
 - 0.1.1 (2023-10-12): New character theme introduction: Mace Windstorm.
-- 0.1.0 (2023-10-12): Initial release of Galactic Glow.
+- 0.1.0 (2023-10-12): Initial release of Galactic Glow(beta).
 
 ## FAQs ❓
 

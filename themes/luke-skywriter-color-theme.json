@@ -1,5 +1,5 @@
 {
-    "name": "Luke Skywalker",
+    "name": "Luke Skywriter",
     "type": "light",
     "colors": {
         "editor.background": "#1E1E3F",
@@ -102,8 +102,6 @@
         {"scope": ["string"], "settings": {"foreground": "#83ADB5"}},
         {"scope": ["support.type.property-name.json"], "settings": {"foreground": "#B9BAE1"}},
         {"scope": ["string.quoted.double.json"], "settings": {"foreground": "#6FCF97"}},
-        {"scope": ["meta.class"], "settings": {"fontStyle": "italic"}},
-        {"scope": ["meta.definition.property"], "settings": {"fontStyle": "italic"}},
         {"scope": ["punctuation"], "settings": {"foreground": "#E67E22"}},
         {"scope": ["invalid", "invalid.illegal"], "settings": {"foreground": "#FFFFFF"}},
         {"scope": ["invalid.deprecated"], "settings": {"foreground": "#FFFFFF"}},
@@ -114,13 +112,13 @@
     
         {"scope": ["meta.function-call.generic"], "settings": {"fontStyle": "bold", "foreground": "#FFE400"}},
     
-        {"scope": ["entity.other.inherited-class"], "settings": {"fontStyle": "italic", "foreground": "#797993"}},
+        {"scope": ["entity.other.inherited-class"], "settings": {"foreground": "#797993"}},
         {"scope": ["markup.tag"], "settings": {"foreground": "#D1CF00"}},
         {"scope": ["markup.attribute-name"], "settings": {"foreground": "#6FCF97"}},
     
         {"scope": ["markup.attribute-value"], "settings": {"foreground": "#B9BAE1"}},
     
-        {"scope": ["markup.comment"], "settings": {"foreground": "#68687B", "fontStyle": "italic"}},
+        {"scope": ["markup.comment"], "settings": {"foreground": "#68687B"}},
     
         {"scope": ["entity.name.tag"], "settings": {"foreground": "#D1CF00"}},
         {
@@ -137,8 +135,8 @@
       },
       {"scope": ["entity.name.section.markdown"], "settings": {"foreground": "#6DBEE4"}},
       {"scope": ["markup.bold.markdown", "markup.bold"], "settings": {"fontStyle": "bold", "foreground": "#F08080"}},
-      {"scope": ["variable.language"], "settings": {"fontStyle": "italic", "foreground": "#6DBEE4"}},
-      {"scope": ["constant.language"], "settings": {"fontStyle": "italic", "foreground": "#D1CF00"}}
+      {"scope": ["variable.language"], "settings": {"foreground": "#6DBEE4"}},
+      {"scope": ["constant.language"], "settings": {"foreground": "#D1CF00"}}
     ],
     "semanticHighlighting": true,
     "semanticTokenColors": {
