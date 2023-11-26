@@ -94,8 +94,8 @@
         "notifications.background": "#1C1C1C"
     },
     "tokenColors": [
-        {"scope": ["keyword"], "settings": {"foreground": "#FACC2E"}},
-        {"scope": ["constant.numeric"], "settings": {"foreground": "#D9534F"}},
+        {"scope": ["keyword"], "settings": {"foreground": "#FF8A00"}},
+        {"scope": ["constant.numeric"], "settings": {"foreground": "#5599FF"}},
         {"scope": ["entity.name.class", "entity.name.type.class"], "settings": {"fontStyle": "italic", "foreground": "#FACC2E"}},
         {"scope": ["entity.name.function"], "settings": {"foreground": "#5CB85C"}},
         {"scope": ["variable", "variable.parameter", "variable.other"], "settings": {"foreground": "#DADADA"}},
@@ -103,7 +103,7 @@
         {"scope": ["comment"], "settings": {"fontStyle": "italic", "foreground": "#6D6D6D"}},
         {"scope": ["string"], "settings": {"foreground": "#D9534F"}},
         {"scope": ["string.quoted.double.json"], "settings": {"foreground": "#5CB85C"}},
-        {"scope": ["punctuation"], "settings": {"foreground": "#FACC2E"}},
+        {"scope": ["punctuation"], "settings": {"foreground": "#55FFFF"}},
         {"scope": ["invalid", "invalid.illegal"], "settings": {"foreground": "#FF6B68"}},
         {"scope": ["entity.name.tag"], "settings": {"foreground": "#FACC2E"}},
         {"scope": ["storage.type"], "settings": {"foreground": "#FACC2E"}},

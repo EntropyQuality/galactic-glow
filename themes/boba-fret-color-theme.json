@@ -154,7 +154,7 @@
         {"scope": ["variable.language"], "settings": {"foreground": "#FF7171"}},
         {"scope": ["constant.language"], "settings": {"foreground": "#C2185B"}},
         {"scope": ["support.function.builtin"], "settings": {"foreground": "#61AFEF"}},
-        {"scope": ["support.variable.magic"], "settings": {"foreground": "#C792EA"}},
+        {"scope": ["support.variable.magic"], "settings": {"foreground": "#C792EA"}}
     ],
 
 }

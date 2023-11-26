@@ -3,7 +3,7 @@
     "displayName": "Galactic Glow",
     "icon": "artworks/logoBW.png",
     "description": "Transform your coding environment into a galactic saga with Galactic Glow. Embrace the shades of Darth Invader, Luke Skywriter, and more as you traverse through the code cosmos.",
-    "version": "0.1.5",
+    "version": "0.2.0",
     "publisher": "EntropyQuality",
     "categories": [
         "Themes"
@@ -19,7 +19,17 @@
     "license": "AGPL-3.0",
     "releaseNotes": [
         {
-            "version": "0.1.6",
+            "version": "0.2.1",
+            "date": "2023-11-26",
+            "notes": [
+                "Major Improvements: Refined new character themes (Artie-Detoo, Cee-Threepo, Darth Insidious)",
+                "Slight Improvements: Darth Invader menu highlighting",
+                "Updated the README.me",
+                "New graphics for the README.md file"
+            ]
+        },
+        {
+            "version": "0.2.0",
             "date": "2023-11-24",
             "notes": [
                 "Major Improvements: Syntax highlighting for multiple characters",

@@ -27,7 +27,7 @@ Switch between different character themes to experience the unique ambiance each
 
 ![Mace Windstorm Theme](./artworks/maceWindstorm.png)
 
-![Unlock more profiles](./artworks/moreProfiles.png)
+![Unlock more profiles](./artworks/unlockedProfiles.png)
 
 - **Mace Windstorm: unlocked** 🌠
 <br>
@@ -149,7 +149,8 @@ A special thanks to all the iconic characters from the galactic saga that inspir
 
 ## Changelog 📅
 
-- 0.1.6 (2023-11-24): Major Improvements: Syntax highlighting for multiple characters, Three new characters added: Artie-Detoo, Cee-Threepo and Darth Insidious, Updated the README.me, added instructions for theme selection process.
+- 0.2.1 (2023-11-26): Major Improvements: Refined new character themes (Artie-Detoo, Cee-Threepo, Darth Insidious), Slight Improvements: Darth Invader menu highlighting, Updated the README.me (new graphics for the README.md file)
+- 0.2.0 (2023-11-24): Major Improvements: Syntax highlighting for multiple characters, Three new characters added: Artie-Detoo, Cee-Threepo and Darth Insidious, Updated the README.me, added instructions for theme selection process.
 - 0.1.5 (2023-11-05): Improved syntax highlighting for multiple characters; Improved the README manual for installing fonts and advanced linux integration"
 - 0.1.4 (2023-11-05): Improved syntax highlighting for all the characters.
 - 0.1.3 (2023-11-01): Color changes to Darth Invader and Luke Skywriter theme for better syntax highlighting and menu navigation - improved the colors to align more with the character; Minor changes to Boba Fret and Mace Windstorm | Extended range of colors for syntax highlighting

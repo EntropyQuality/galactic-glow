@@ -73,7 +73,7 @@
         "focusBorder": "#D10000",
         "badge.background": "#D10000",
         "badge.foreground": "#E0E0E0",
-        "list.activeSelectionBackground": "#2F2F2F",
+        "list.activeSelectionBackground": "#DB3C3C",
         "list.activeSelectionForeground": "#E0E0E0",
         "list.hoverBackground": "#2F2F2F",
         "list.hoverForeground": "#C0C0C0",
