@@ -3,7 +3,7 @@
     "displayName": "Galactic Glow",
     "icon": "artworks/logoBW.png",
     "description": "Transform your coding environment into a galactic saga with Galactic Glow. Embrace the shades of Darth Invader, Luke Skywriter, and more as you traverse through the code cosmos.",
-    "version": "0.2.0",
+    "version": "0.2.1",
     "publisher": "EntropyQuality",
     "categories": [
         "Themes"
@@ -112,7 +112,7 @@
                 "label": "GalacticGlow - Artie-Detoo",
                 "uiTheme": "vs-dark",
                 "path": "./themes/artie-detoo-color-theme.json"
-            }, 
+            },
             {
                 "label": "GalacticGlow - Boba Fret",
                 "uiTheme": "vs-dark",
