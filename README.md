@@ -149,6 +149,7 @@ A special thanks to all the iconic characters from the galactic saga that inspir
 
 ## Changelog 📅
 
+- 0.2.2 (2023-11-27): Slight Improvements: Artie-Detoo, Cee-Threepo, Darth Insidious -> menu highlighting; Darth Invader -> added new color for advanced syntax highlighting
 - 0.2.1 (2023-11-26): Major Improvements: Refined new character themes (Artie-Detoo, Cee-Threepo, Darth Insidious), Slight Improvements: Darth Invader menu highlighting, Updated the README.me (new graphics for the README.md file)
 - 0.2.0 (2023-11-24): Major Improvements: Syntax highlighting for multiple characters, Three new characters added: Artie-Detoo, Cee-Threepo and Darth Insidious, Updated the README.me, added instructions for theme selection process.
 - 0.1.5 (2023-11-05): Improved syntax highlighting for multiple characters; Improved the README manual for installing fonts and advanced linux integration"

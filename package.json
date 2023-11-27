@@ -19,6 +19,13 @@
     "license": "AGPL-3.0",
     "releaseNotes": [
         {
+            "version": "0.2.2",
+            "date": "2023-11-26",
+            "notes": [
+                "Slight Improvements: Artie-Detoo, Cee-Threepo, Darth Insidious -> menu highlighting; Darth Invader -> added new color for syntax highlighting"
+            ]
+        },
+        {
             "version": "0.2.1",
             "date": "2023-11-26",
             "notes": [
